@@ -31,3 +31,44 @@ let someNumber=69
 let stringNumber=String(someNumber)
 console.log(stringNumber)
 console.log(typeof stringNumber);
+
+
+
+// ****************************operation*************************
+// let value1 =3
+// let negValue =-3
+// console.log(negValue);
+
+// let value2 =-3
+// let posValue =+3
+// console.log(posValue);
+
+// console.log(2+2);
+// console.log(2/2)
+// console.log(2-2)
+// console.log(3%2)
+// console.log(2**3)
+// console.log(3**4)
+
+let str1="roushan"
+let str2="verma"
+let str3=str1+str2
+// console.log(str3);
+
+// console.log("2"+1);
+// console.log(2+"1");
+// console.log("2"+"1");
+
+// console.log("2"+1+1);
+// console.log(1+2+"1");
+// console.log(1+"2"+1);
+
+// console.log(+true);
+// // console.log(++true); error
+// console.log(+"");
+
+
+let gameCounter=100
+++gameCounter
+console.log(gameCounter);
+
